@@ -17,6 +17,8 @@
   <a href="https://www.postgresql.org/">   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="Postgres Logo" width="70" height="70"/></a>
   <a href="https://graphql.org/">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL Logo" width="70" height="70"/> </a>
  </a>
+ <a href="https://socket.io/">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASocket-io.svg&psig=AOvVaw08Z-6Ogv6igkjCTzQo_ITD&ust=1653407139077000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKDuj9z79fcCFQAAAAAdAAAAABAG" alt="Socket.IO Logo" width="70" height="70"/> </a>
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caseydc)](https://github.com/casey-christiansen/github-readme-stats)
