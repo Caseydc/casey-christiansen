@@ -18,7 +18,7 @@
   <a href="https://graphql.org/">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL Logo" width="70" height="70"/> </a>
  </a>
  <a href="https://socket.io/">
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.logolynx.com%2Fimages%2Flogolynx%2Fa9%2Fa9fcfdd7db3f3f1850bf7a6c665ea7f8.jpeg&imgrefurl=https%3A%2F%2Fwww.logolynx.com%2Ftopic%2Fsocket%2Bio&tbnid=hm3QmJqpFL7Z4M&vet=12ahUKEwiO29SL_PX3AhUNohoKHSDrCrIQMyggegUIARD6AQ..i&docid=RySeF5V1RHoJPM&w=474&h=474&q=google%20image%20socket.io%20logo&ved=2ahUKEwiO29SL_PX3AhUNohoKHSDrCrIQMyggegUIARD6AQ" alt="Socket.IO Logo" width="70" height="70"/> </a>
+<img src="https://www.logolynx.com/topic/socket+io#&gid=1&pid=1" alt="Socket.IO Logo" width="70" height="70"/> </a>
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caseydc)](https://github.com/casey-christiansen/github-readme-stats)
